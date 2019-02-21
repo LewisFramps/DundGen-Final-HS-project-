@@ -25,5 +25,9 @@ Where can I find more info on this project?
 
 >Look for 'DundGen - AH Project.pdf' in this project. Contains a writeup of the entire project. I did work on it like 2 years ago so if you've got any questions then just pm me and I'll act like I know what I'm doing. <3
 
+Where can I see an example?
 
+>here!
 ![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/examplePic.png)
+
+
