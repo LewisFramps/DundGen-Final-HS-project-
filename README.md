@@ -28,10 +28,13 @@ Where can I find more info on this project?
 Where can I see an example?
 
 >here!
+
 >55x55
 ![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/55.bmp)
+
 >125x125
 ![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/125.bmp)
+
 >555x555
 ![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/555.bmp)
 
