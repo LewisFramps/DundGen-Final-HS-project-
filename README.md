@@ -28,6 +28,8 @@ Where can I find more info on this project?
 Where can I see an example?
 
 >here!
-![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/examplePic.png)
+![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/55.bmp)
+![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/125.bmp)
+![example dungeon output](https://github.com/LewisFramps/DundGen-Final-HS-project-/blob/master/555.bmp)
 
 
